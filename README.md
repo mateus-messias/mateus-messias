@@ -4,7 +4,7 @@
 - 📚 Estudando ReactJS
 
   <div align='left'>  
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-messias-dev&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-messias&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
 
   <div style="display: inline_block"><br>  
