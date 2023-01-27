@@ -4,7 +4,7 @@
 - 📚 Estudando ReactJS
 
   <div align='left'>  
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt0212-dev&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-messias-dev&layout=compact&langs_count=7&theme=github_dark"/>
   </div>
 
   <div style="display: inline_block"><br>  
@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/mateus-oliveira-29326a21a" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/Matt0212-dev/Matt0212-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mateus-messias/mateus-messias/blob/output/github-contribution-grid-snake.svg)
   
 
 
